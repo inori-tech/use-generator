@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "isolatedModules": true,
+    "importHelpers": true,
+    "strict": true,
+    "alwaysStrict": true,
+    "paths": {
+      "~/*": ["./src/"]
+    }
+  }
+}
